@@ -1,0 +1,25 @@
+body {padding:0; margin:4; font:0.85em verdana,geneva,arial,helvetica,sans-serif; line-height:1.5em; background:#fff top; color:#454545;}
+a {color:#ff6600; background:inherit; text-decoration:none;}
+a:hover {color:#000000; background:inherit; text-decoration:underline;}
+p {margin:5px 5px;}
+h1 {font:bold 1.8em verdana,geneva,arial,helvetica,sans-serif; padding:8px 4px 4px; margin:0; letter-spacing:-1px;}
+h2 {font:bold 1.6em verdana,geneva,arial,helvetica,sans-serif; letter-spacing:-1px; color:#666666}
+h3 {padding:4px 0; margin:0;}
+hr {height:1px; border-style:none; color:#d0d0d0; margin:10px 0; background:#c0c0c0}
+img {border-style:none;}
+.menu ul {background:url(images/menu-bg.gif) top left repeat-x; height:43px; list-style:none; margin:0; padding:0;}
+.menu li {float:left; padding:0px 8px 0px 8px;}
+.menu li a {color:#666666; display:block; font-weight:bold; line-height:43px; padding:0px 25px; text-align:center; text-decoration:none;}
+.menu li:hover a {background:#2580a2 url("images/current-bg.gif") top left repeat-x; color:#ffffff; text-decoration:none;}
+.menu li:hover ul a {background: none; color:#666666; text-decoration:none;}
+.menu li ul {background:#e0e0e0; border-left:2px solid #ff6600; border-right:2px solid #ff6600; border-bottom:2px solid #ff6600; display:none; height:auto; filter:alpha(opacity=95); opacity:0.95; position:absolute; width:225px; z-index:200;}
+.menu li:hover ul {display:block;}
+.menu li li {background:none; display:block; float:none; padding:0px; width:225px;}
+.menu li ul a {background:none; display:block; font-size:12px; font-style:normal; padding:0px 10px 0px 15px; text-align:left;}
+.menu li ul a:hover {background:#949494; color:#000000; opacity:1.0; filter:alpha(opacity=100);}
+.menu p {clear:left;}
+.menu #current {background:url(images/current-bg.gif) top left repeat-x; color:#ffffff;}
+.main {margin:20px auto;  margin-left:8px; width:700px;}
+.header {margin:8px auto; margin-left:4px; width:700px; vertical-align:middle;}
+.footer {color:#999999; font-size: 0.9em; text-align:center; padding-top:30px; width:700px;}
+.footer a {color:#ffaa44; background:inherit; text-decoration:none;}

@@ -17,8 +17,8 @@
    id="Layer_1"
    xml:space="preserve"
    inkscape:version="0.48+devel r11109"
-   sodipodi:docname="libusbx_logo.svg"
-   inkscape:export-filename="E:\libusbx-wiki\libusbx-160.png"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo-160.png"
    inkscape:export-xdpi="11.417034"
    inkscape:export-ydpi="11.417034"><metadata
    id="metadata2997"><rdf:RDF><cc:Work
@@ -75,7 +75,7 @@
 
 <g
    id="g831"
-   inkscape:export-filename="D:\libusbx-wiki\libusbx-330.png"
+   inkscape:export-filename="logo-330.png"
    inkscape:export-xdpi="23.341713"
    inkscape:export-ydpi="23.341713"
    style="fill:#636363;fill-opacity:1"
@@ -89,7 +89,7 @@
            id="g920"
            style="opacity:0.8;fill:#636363;fill-opacity:1"><g
              id="g924"
-             inkscape:export-filename="D:\libusbx-wiki\X.png"
+             inkscape:export-filename="X.png"
              inkscape:export-xdpi="12.082039"
              inkscape:export-ydpi="12.082039"
              style="fill:#636363;fill-opacity:1"><path
@@ -98,7 +98,7 @@
                id="path1334"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="ccccscccccccccccccssscsccc"
-               inkscape:export-filename="D:\libusbx-wiki\Xi.png"
+               inkscape:export-filename="Xi.png"
                inkscape:export-xdpi="12.199083"
                inkscape:export-ydpi="12.199083"
                transform="translate(0,-5.7652939e-6)" /><path
@@ -107,7 +107,7 @@
                id="path1334-1"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cccccccccssscsccccccscccc"
-               inkscape:export-filename="D:\libusbx-wiki\Xi.png"
+               inkscape:export-filename="Xi.png"
                inkscape:export-xdpi="12.199083"
                inkscape:export-ydpi="12.199083"
                transform="translate(0,-5.7652939e-6)" /></g></g></g></g></g></g><text
@@ -117,7 +117,7 @@
    y="1074.8903"
    id="text3041"
    sodipodi:linespacing="125%"
-   inkscape:export-filename="D:\libusbx-wiki\libusbx.png"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="8.1452723"
    inkscape:export-ydpi="8.1452723"><tspan
      sodipodi:role="line"
@@ -139,7 +139,7 @@
    y="999.22375"
    id="text3045"
    sodipodi:linespacing="125%"
-   inkscape:export-filename="D:\libusbx-wiki\libusbx.png"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="8.1452723"
    inkscape:export-ydpi="8.1452723"><tspan
      sodipodi:role="line"
@@ -161,7 +161,7 @@
    y="1114.2783"
    id="text3049"
    sodipodi:linespacing="125%"
-   inkscape:export-filename="D:\libusbx-wiki\libusbx.png"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="8.1452723"
    inkscape:export-ydpi="8.1452723"><tspan
      sodipodi:role="line"
@@ -186,7 +186,7 @@
    transform="scale(0.94065696,1.0630868)"
    inkscape:export-xdpi="23.341713"
    inkscape:export-ydpi="23.341713"
-   inkscape:export-filename="D:\libusbx-wiki\libusbx-330.png"><tspan
+   inkscape:export-filename="logo-330.png"><tspan
      sodipodi:role="line"
      id="tspan3067"
      x="-12.866343"
